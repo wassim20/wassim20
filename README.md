@@ -40,11 +40,11 @@
 <br />
 
 #
-• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • 
+• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • 
 
 ### 🔥 Projects
 Here are a few projects I've worked on:
-- **[Email Marketing Platform](https://github.com/wassim20/email-marketing-platform):** A powerful email marketing tool that allows users to create, manage, and analyze email campaigns with Angular and Go.
+- **[Email Marketing Platform](https://github.com/wassim20/golang):** A powerful email marketing tool that allows users to create, manage, and analyze email campaigns with Angular and Go.
 - **[Portfolio Website](https://github.com/wassim20/portfolio):** My personal portfolio showcasing my skills and work, built with Angular and Spring Boot.
 - **[Task Manager API](https://github.com/wassim20/task-manager-api):** A RESTful API for managing tasks and projects, implemented with Go and MySQL.
 
