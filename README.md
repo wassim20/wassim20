@@ -14,7 +14,9 @@
 - 🌱 Currently expanding my knowledge in **Rect** and **DevOps**
 - 🌍 Based in Tunisia, but open to global opportunities and collaborations
 - 🚀 Always eager to work on challenging projects that push my skills to the next level
----
+
+
+#
 
 ### 🧰 Languages and Tools
 
