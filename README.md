@@ -55,9 +55,8 @@ Here are a few projects I've worked on:
 </p>
 
 ### 🌐 Find Me Elsewhere
-- 📝 [Portfolio](https://wassim20.github.io) (Showcase your work)
 - 💼 [LinkedIn](https://www.linkedin.com/in/wassim20/)
-- 📧 Email: wassim@example.com
+- 📧 Email: mohamedwassim.dhaouadi@esprit.tn
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
